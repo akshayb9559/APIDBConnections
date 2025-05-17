@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "APIConnections",
+			"path": "APIConnections"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "APIConnections"
+	}
+}
